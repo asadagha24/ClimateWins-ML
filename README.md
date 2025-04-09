@@ -16,7 +16,7 @@ Within this repository, you will find the following folders to maintain logical 
 
 **01 Project Management:** Contains the project brief and related documentation
    
-**02 Data:** Contains raw data
+**02 Data:** Contains raw and prepared data
    
 **03 Scripts:** Python scripts for data cleaning, feature engineering, and model training. Contains subfolders:
 - Supervised: Scripts for supervised machine learning models.
