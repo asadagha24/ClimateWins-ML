@@ -6,9 +6,9 @@ Climate Wins, a European non-profit organization wants to leverage machine learn
 
 ## Key Questions
 
-1. **Can machine learning models trained on historical weather data accurately predict the rising frequency of extreme weather events across Europe?**
-2. **Are supervised learning models effective in predicting specific weather conditions?**
-3. **Does prediction accuracy differ depending on geographic location and the range of climate conditions within the region?**
+**1. Can machine learning models trained on historical weather data accurately predict the rising frequency of extreme weather events across Europe?**
+**2. Are supervised learning models effective in predicting specific weather conditions?**
+**3. Does prediction accuracy differ depending on geographic location and the range of climate conditions within the region?**
 
 ## Folder Structure
 
